@@ -1,0 +1,18 @@
+{
+    "dragDrop":{
+        "color": "yellow"
+    },
+    "dynamicProp": {
+        "randomId": "This text has random Id",
+        "color": "red",
+        "attr": "disabled"
+    },
+    "hoverElem": {
+        "buttonHover": "You hovered over the Button",
+        "fieldHover": "You hovered over the text field"
+
+    },
+    "uploadSection": {
+        "filePath": "meme.jpg"
+    }
+}

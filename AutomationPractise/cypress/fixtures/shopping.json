@@ -1,0 +1,11 @@
+{
+    "shop":{
+        "hoverClass": "sfHover",
+        "size": "M",
+        "quantity": "2",
+        "boxTitle": "\n\t\t\t\t\tProduct successfully added to your shopping cart\n\t\t\t\t",
+        "productTitle": "Faded Short Sleeve T-shirts",
+        "color": "Blue",
+        "price": "$33.02"
+    }
+}

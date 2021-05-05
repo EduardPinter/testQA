@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://orangehrm-demo-6x.orangehrmlive.com/",
+    "modifyObstructiveCode": true,
+    "experimentalSourceRewriting": true,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "chromeWebSecurity": false
+}
